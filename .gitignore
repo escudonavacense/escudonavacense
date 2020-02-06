@@ -60,6 +60,7 @@ src/qt/bitcoin-qt.includes
 *.pb.h
 
 *.log
+!config.log
 *.trs
 *.dmg
 
